@@ -1,6 +1,6 @@
 # Text: created by a human or by a robot?
 
-Final project for the Building AI course
+My final project for the Building AI course
 
 ## Summary
 
